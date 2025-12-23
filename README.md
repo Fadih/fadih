@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=C77DFF&center=true&vCenter=true&width=1000&lines=I+build+things+that+run+by+themselves;If+it+breaks%2C+it+recovers;If+it+scales%2C+it+scales+clean;Automation+over+panic." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=FF5C8A&center=true&vCenter=true&width=1000&lines=I+build+things+that+run+by+themselves;If+it+breaks%2C+it+recovers;If+it+scales%2C+it+scales+clean;Automation+over+panic." />
 </p>
+
 
 
 ---
