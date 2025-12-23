@@ -50,12 +50,17 @@ AI · Bots · Automation · “why not automate this?”
 
 ---
 
-
 ## 🎮 GitHub Activity (Pac-Man Mode)
 
 <p align="center">
-  <img src="https://github.com/fadih/fadih/blob/output/github-contribution-grid-pacman.svg" />
+  <picture>
+    <!-- Dark mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fadih/fadih/output/pacman-contribution-graph-dark.svg" />
+    <!-- Light mode -->
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/fadih/fadih/output/pacman-contribution-graph.svg" />
+  </picture>
 </p>
+
 
 
 > Commits eaten one by one 🟡
