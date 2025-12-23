@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=C77DFF&center=true&vCenter=true&width=900&lines=I+build+things+that+run+by+themselves;If+it+breaks%2C+it+recovers;If+it+scales%2C+it+scales+clean;Less+manual.+More+automation." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=39FF14&center=true&vCenter=true&width=1000&lines=I+build+things+that+run+by+themselves;If+it+breaks%2C+it+recovers;If+it+scales%2C+it+scales+clean;Automation+over+panic." />
 </p>
 
 ---
@@ -16,22 +16,22 @@
 - ☁️ Cloud setups that **scale without drama**
 - ⎈ Kubernetes clusters that **behave**
 - 🔄 Pipelines that **deploy while I sleep**
-- 📊 Dashboards that **actually explain what’s happening**
+- 📊 Dashboards that **actually explain reality**
 - 🤖 Automation that replaces meetings
 
 ---
 
-## 🧩 How I Think About Systems
+## 🧩 My Rules
 
-- 🧱 If it’s not code, it’s tech debt  
-- 🔄 Git is the source of truth  
-- 📊 You can’t fix what you can’t see  
-- 🔥 Small changes > big surprises  
-- 💤 Good systems let humans rest  
+- 🧱 If it’s not code → it’s tech debt  
+- 🔄 Git decides  
+- 📊 Metrics > opinions  
+- 🔥 Small changes win  
+- 💤 Reliability = good sleep  
 
 ---
 
-## 🛠️ Stuff I Enjoy Working With
+## 🛠️ Stuff I Enjoy
 
 ☁️ **Cloud & Infra**  
 AWS · Terraform · IaC things
@@ -50,18 +50,17 @@ AI · Bots · Automation · “why not automate this?”
 
 ---
 
-## 🎯 Side Project Vibe
+## 🎮 GitHub Activity (Pac-Man Mode)
 
-📈 **AI Trading Playground**
-- Signals + sentiment + data
-- Runs on containers
-- Ships with GitOps
-- Observed, measured, cached
-- Mostly built for fun 😄
+<p align="center">
+  <img src="https://github.com/abozanona/abozanona/raw/output/github-contribution-grid-pacman.svg" />
+</p>
+
+> Commits eaten one by one 🟡
 
 ---
 
-## 📈 Activity
+## 📈 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fadih&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -78,5 +77,5 @@ AI · Bots · Automation · “why not automate this?”
 </p>
 
 <p align="center">
-  <sub>⚡ I like systems that just work.</sub>
+  <sub>⚡ Automation is my superpower.</sub>
 </p>
