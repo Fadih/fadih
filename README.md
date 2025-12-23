@@ -50,11 +50,13 @@ AI · Bots · Automation · “why not automate this?”
 
 ---
 
+
 ## 🎮 GitHub Activity (Pac-Man Mode)
 
 <p align="center">
-  <img src="https://github.com/abozanona/abozanona/raw/output/github-contribution-grid-pacman.svg" />
+  <img src="https://github.com/fadih/fadih/blob/output/github-contribution-grid-pacman.svg" />
 </p>
+
 
 > Commits eaten one by one 🟡
 
