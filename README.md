@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=I+build+things+that+run+by+themselves;If+it+breaks%2C+it+recovers;If+it+scales%2C+it+scales+clean;Less+manual.+More+automation." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=C77DFF&center=true&vCenter=true&width=900&lines=I+build+things+that+run+by+themselves;If+it+breaks%2C+it+recovers;If+it+scales%2C+it+scales+clean;Less+manual.+More+automation." />
 </p>
 
 ---
 
-## 🧠 What I Enjoy Building
+## 🧠 What I Like Building
 
 - ⚙️ Systems that **don’t need babysitting**
 - ☁️ Cloud setups that **scale without drama**
@@ -21,7 +21,7 @@
 
 ---
 
-## 🧩 My Dev Philosophy
+## 🧩 How I Think About Systems
 
 - 🧱 If it’s not code, it’s tech debt  
 - 🔄 Git is the source of truth  
@@ -31,9 +31,9 @@
 
 ---
 
-## 🛠️ Stuff I Like Working With
+## 🛠️ Stuff I Enjoy Working With
 
-☁️ **Cloud**  
+☁️ **Cloud & Infra**  
 AWS · Terraform · IaC things
 
 ⎈ **Containers**  
@@ -45,7 +45,7 @@ GitHub Actions · Jenkins · Argo CD
 📊 **Visibility**  
 Prometheus · Grafana · Logs that make sense
 
-🤖 **Side fun**  
+🤖 **Side Fun**  
 AI · Bots · Automation · “why not automate this?”
 
 ---
@@ -57,7 +57,7 @@ AI · Bots · Automation · “why not automate this?”
 - Runs on containers
 - Ships with GitOps
 - Observed, measured, cached
-- Mostly built for fun (and curiosity 😄)
+- Mostly built for fun 😄
 
 ---
 
@@ -69,11 +69,11 @@ AI · Bots · Automation · “why not automate this?”
 
 ---
 
-## ☕ Let’s Talk
+## ☕ Let’s Connect
 
 <p align="center">
   <a href="https://github.com/fadih">GitHub</a> ·
-  <a href="https://linkedin.com/in/fadi-hussein">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/fadi-hussein-8ab7403b/">LinkedIn</a> ·
   <a href="mailto:fadi.hussien88@gmail.com">Email</a>
 </p>
 
